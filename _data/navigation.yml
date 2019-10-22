@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Nada"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Zero"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Nothing"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Empty"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Blank"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Void"
     url: /markdown/
