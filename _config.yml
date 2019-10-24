@@ -84,9 +84,9 @@ author:
   avatar           : "https://i.kym-cdn.com/photos/images/newsfeed/001/610/396/66e.jpg"
   bio              : "A carbon-based lifeform like everyone else, obviously *laughs nervously*"
   location         : "In The Hot Tub"
-  employer         : "Joemama"
+  employer         : #"Joemama"
   pubmed           : 
-  email            : "yeetboi96@email.net"
+  email            : #"yeetboi96@email.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        : "Like + Comment"
+  instagram        : #"Like + Comment"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
