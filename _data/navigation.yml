@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Nada"
+  - title: "Creativity"
     url: /publications/
 
-  - title: "Zero"
+  - title: "Abstraction"
     url: /talks/    
 
-  - title: "Nothing"
+  - title: "Data and Info"
     url: /teaching/    
     
-  - title: "Vanished"
+  - title: "Algorithms"
     url: /portfolio/
         
-  - title: "Empty"
+  - title: "Programming"
     url: /year-archive/
     
-  - title: "Blank"
+  - title: "The Internet"
     url: /cv/
     
-  - title: "Void"
+  - title: "Global Impact"
     url: /markdown/
