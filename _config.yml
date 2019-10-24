@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yeet Boi"
   avatar           : "https://i.kym-cdn.com/photos/images/newsfeed/001/610/396/66e.jpg"
-  bio              : "Bailey's Stuff (If You Must Know)"
+  bio              : "A carbon-based lifeform like everyone else, obviously *laughs nervously*"
   location         : "iMaGiNaTiOn wOrLd"
   employer         :
   pubmed           : 
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
