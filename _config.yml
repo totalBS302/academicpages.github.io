@@ -83,10 +83,10 @@ author:
   name             : "Yeet Boi"
   avatar           : "https://i.kym-cdn.com/photos/images/newsfeed/001/610/396/66e.jpg"
   bio              : "A carbon-based lifeform like everyone else, obviously *laughs nervously*"
-  location         : "iMaGiNaTiOn wOrLd"
-  employer         :
+  location         : "In The Hot Tub"
+  employer         : "Joemama"
   pubmed           : 
-  email            :
+  email            : "yeetboi96@email.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "Like + Comment"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
